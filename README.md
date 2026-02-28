@@ -2,12 +2,12 @@
 "Pollen's Profiling: Automated Classification of Pollen Grains" automates pollen identification using advanced image processing and deep learning. This project aims to accurately categorize pollen based on morphological features, a task currently manual and error-prone.
 
 <h4 align="center">
-  🆔 Team ID: <code>LTVIP2025TMID45577</code> &nbsp; | &nbsp; 👥 Team Size: 4
+  🆔 Team ID: <code>LTVIP2026TMIDS79175</code> &nbsp; | &nbsp; 👥 Team Size: 4
 </h4>
 
 <p align="center">
-  👩‍💼 <strong>Team Leader:</strong> P Pooja Harshitha <br/>
-  👩‍💻 <strong>Team Members:</strong> Navya Ramisetty, Narepalem Teja, Naragam Manikanta Raghava
+  👩‍💼 <strong>Team Leader:</strong> Tangella Rohith Lakshman Kumar <br/>
+  👩‍💻 <strong>Team Members:</strong> Dwibhashyam Amarnath Sharma,Thota Jaya Venkata Rao,Penmatsa Avinash
 </p>
 
 <p align="center">
